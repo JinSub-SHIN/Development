@@ -3,6 +3,9 @@ using WinFormMVC.Model;
 
 namespace WinFormMVC.Controller
 {
+
+    // 인터페이스.. (함수도 가능함)
+
     public interface IUsersView
     {
         void SetController(UsersController controller);

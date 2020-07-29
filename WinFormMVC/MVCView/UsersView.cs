@@ -13,6 +13,9 @@ namespace WinFormMVC.View
 {
     public partial class UsersView : Form, IUsersView
     {
+
+        // IUsersView 인터페이스를 받아 구현체..
+
         public UsersView()
         {
             InitializeComponent();

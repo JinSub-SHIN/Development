@@ -2,6 +2,10 @@
 
 namespace WinFormMVC.Model
 {
+
+    // 자바와 비슷한 Model  Getter Setter 생성자등으로 값을 가져오거나 값을 넣을 수 있다.
+    // private public 설정은 동일함.
+
     public class User
     {
         public enum SexOfPerson
