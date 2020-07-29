@@ -1,0 +1,9 @@
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCController\bin\Debug\MVCController.dll
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCController\bin\Debug\MVCController.pdb
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCController\bin\Debug\MVCModal.dll
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCController\bin\Debug\MVCModal.pdb
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCController\obj\Debug\MVC-Controller.csprojAssemblyReference.cache
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCController\obj\Debug\MVC-Controller.csproj.CoreCompileInputs.cache
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCController\obj\Debug\MVC-Controller.csproj.CopyComplete
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCController\obj\Debug\MVCController.dll
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCController\obj\Debug\MVCController.pdb

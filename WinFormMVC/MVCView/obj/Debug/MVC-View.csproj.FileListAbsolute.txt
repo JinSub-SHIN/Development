@@ -1,0 +1,13 @@
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCView\bin\Debug\MVCView.dll
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCView\bin\Debug\MVCView.pdb
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCView\bin\Debug\MVCController.dll
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCView\bin\Debug\MVCModal.dll
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCView\bin\Debug\MVCController.pdb
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCView\bin\Debug\MVCModal.pdb
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCView\obj\Debug\MVC-View.csprojAssemblyReference.cache
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCView\obj\Debug\WinFormMVC.View.UsersView.resources
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCView\obj\Debug\MVC-View.csproj.GenerateResource.cache
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCView\obj\Debug\MVC-View.csproj.CoreCompileInputs.cache
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCView\obj\Debug\MVC-View.csproj.CopyComplete
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCView\obj\Debug\MVCView.dll
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCView\obj\Debug\MVCView.pdb

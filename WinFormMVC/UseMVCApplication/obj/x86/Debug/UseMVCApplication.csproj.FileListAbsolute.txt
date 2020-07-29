@@ -1,0 +1,15 @@
+C:\Users\Neozensoft\source\repos\WinFormMVC\UseMVCApplication\bin\Debug\UseMVCApplication.exe
+C:\Users\Neozensoft\source\repos\WinFormMVC\UseMVCApplication\bin\Debug\UseMVCApplication.pdb
+C:\Users\Neozensoft\source\repos\WinFormMVC\UseMVCApplication\bin\Debug\MVCController.dll
+C:\Users\Neozensoft\source\repos\WinFormMVC\UseMVCApplication\bin\Debug\MVCModal.dll
+C:\Users\Neozensoft\source\repos\WinFormMVC\UseMVCApplication\bin\Debug\MVCView.dll
+C:\Users\Neozensoft\source\repos\WinFormMVC\UseMVCApplication\bin\Debug\MVCController.pdb
+C:\Users\Neozensoft\source\repos\WinFormMVC\UseMVCApplication\bin\Debug\MVCModal.pdb
+C:\Users\Neozensoft\source\repos\WinFormMVC\UseMVCApplication\bin\Debug\MVCView.pdb
+C:\Users\Neozensoft\source\repos\WinFormMVC\UseMVCApplication\obj\x86\Debug\UseMVCApplication.csprojAssemblyReference.cache
+C:\Users\Neozensoft\source\repos\WinFormMVC\UseMVCApplication\obj\x86\Debug\UseMVCApplication.Properties.Resources.resources
+C:\Users\Neozensoft\source\repos\WinFormMVC\UseMVCApplication\obj\x86\Debug\UseMVCApplication.csproj.GenerateResource.cache
+C:\Users\Neozensoft\source\repos\WinFormMVC\UseMVCApplication\obj\x86\Debug\UseMVCApplication.csproj.CoreCompileInputs.cache
+C:\Users\Neozensoft\source\repos\WinFormMVC\UseMVCApplication\obj\x86\Debug\UseMVCApplication.csproj.CopyComplete
+C:\Users\Neozensoft\source\repos\WinFormMVC\UseMVCApplication\obj\x86\Debug\UseMVCApplication.exe
+C:\Users\Neozensoft\source\repos\WinFormMVC\UseMVCApplication\obj\x86\Debug\UseMVCApplication.pdb

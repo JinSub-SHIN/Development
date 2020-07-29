@@ -1,0 +1,6 @@
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCModal\bin\Debug\MVCModal.dll
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCModal\bin\Debug\MVCModal.pdb
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCModal\obj\Debug\MVC-Model.csprojAssemblyReference.cache
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCModal\obj\Debug\MVC-Model.csproj.CoreCompileInputs.cache
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCModal\obj\Debug\MVCModal.dll
+C:\Users\Neozensoft\source\repos\WinFormMVC\MVCModal\obj\Debug\MVCModal.pdb
